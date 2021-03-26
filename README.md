@@ -1,1 +1,7 @@
-# Fruit-Collecter-1-and-2-Project-40-and-41
+
+## Use basic p5.play-boilerplate
+
+
+## Please refer to code notes for explanation.
+
+
